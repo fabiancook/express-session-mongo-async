@@ -1,0 +1,13 @@
+{
+  "name": "express-session-mongo-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Fabian Cook <fabian@shipper.co.nz>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@shipper/shipper-mongodb-async-collection": "^1.0.0",
+    "express-session": "^1.15.0"
+  }
+}
